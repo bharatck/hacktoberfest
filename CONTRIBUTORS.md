@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+#### Name: [Bharat Kathuria](https://github.com/bharatck)
+- Place: Mumbai, India
+- Bio: Web developer PHP and Python
+- Github: [bharatck](https://github.com/bharatck)
+
